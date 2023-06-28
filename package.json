@@ -1,0 +1,18 @@
+{
+  "name": "gui-pergunta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Estou rodando\")"
+  },
+  "author": "Eric",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mysql2": "^3.4.2",
+    "sequelize": "^6.32.1"
+  }
+}
